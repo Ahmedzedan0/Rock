@@ -3,7 +3,7 @@
 -  I’m interested in Machine Learning 
 -  I’m currently learning Machine Learning
 -  I’m looking to collaborate on real-life Machine Learning projects 
--  I'm persuing a Master's degree in Electrical engineering with focus on Machine Learning 
+-  I'm pursuing a Master's degree in Electrical engineering with focus on Machine Learning 
 -  Email: ahmedziidanee@gmail.com 
 -  LinkedIn: https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane/ 
 
